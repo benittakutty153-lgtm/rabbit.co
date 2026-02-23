@@ -46,7 +46,7 @@ nav a{
 .hero{
     height:85vh;
     background:linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
-    url('https://images.unsplash.com/photo-1513885535751-8b9238bd345a?auto=format&fit=crop&w=1400&q=80') center/cover;
+    url('file:///C:/Users/User/Downloads/download%20(5).jpeg') center/cover;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -202,6 +202,12 @@ footer p{
     </div>
 </section>
 
+<footer>
+    <p>© 2026 rabbit.co — A Luxury Gift Boutique</p>
+</footer>
+
+</body>
+</html>
 <footer>
     <p>© 2026 rabbit.co — A Luxury Gift Boutique</p>
 </footer>
